@@ -1,0 +1,15 @@
+{
+  "name": "chem-bond",
+  "version": "0.1.0",
+  "description": "Tiny simplifier for elecron IPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chem-bond"
+  },
+  "author": "GlitchyGlitch",
+  "license": "ISC"
+}
