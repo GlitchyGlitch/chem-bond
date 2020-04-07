@@ -1,6 +1,6 @@
 {
   "name": "chem-bond",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tiny simplifier for elecron IPC",
   "main": "index.js",
   "scripts": {
